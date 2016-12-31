@@ -19,6 +19,11 @@
       <file name="E:/apache/hadoop/pom.xml" timestamp="1483137986319">
         <mark key="'" line="506" column="32" />
       </file>
+      <file name="E:/apache/hadoop/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/DFSConfigKeys.java" timestamp="1483211084260">
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="56" column="7" />
+        <mark key="." line="56" column="7" />
+      </file>
       <file name="E:/apache/hive/ql/src/java/org/apache/hadoop/hive/ql/Context.java" timestamp="1483139493599">
         <mark key="'" line="191" column="49" />
       </file>
@@ -29,6 +34,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="terminal.xml" timestamp="1483210580880">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -56,8 +64,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -67,6 +75,9 @@
       </register>
       <register name=":" type="4">
         <text>wa</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>HiveCon</text>
