@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/hive/pinterest/debug_conf/hive-site.xml" timestamp="1483740395869" />
+      <file name="$USER_HOME$/code/hive/pinterest/debug_conf/hive-site.xml" timestamp="1484546884943" />
     </filemarks>
     <jumps />
     <registers />
@@ -11,7 +11,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
